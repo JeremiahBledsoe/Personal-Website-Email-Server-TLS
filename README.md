@@ -1,4 +1,4 @@
-# Personal Website & Email Server (TLS)
+# Personal Website & Email Server
 
 Built a personal website and self-hosted email server using a Linux VPS, ensuring secure and reliable communication with proper DNS and SSL configurations.
 
